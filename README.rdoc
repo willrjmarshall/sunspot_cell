@@ -1,4 +1,4 @@
-= Sunspot Cell
+= Sunspot Cell for Dragonfly
 
 This plugin adds Cell support (for indexing rich documents) to Sunspot (developed against Sunspot 1.2.1).
 
@@ -20,7 +20,7 @@ and
 
 == Note
 
-This version assumes the attachment attribute has method +.data+, that returns contents of the attachment.
+This version expects data to be modelled as per Dragonfly attachments.
 
 == Usage
 
